@@ -1,6 +1,6 @@
 {
   "name": "vue-evil",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "dist/vue-evil.cjs.js",
   "module": "dist/vue-evil.es.js",
   "types": "dist/types/index.d.ts",
